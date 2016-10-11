@@ -1,0 +1,6 @@
+{
+  "name": "webpack-inject-assets-plugin",
+  "description": "like gulp-inject, but for webpack",
+  "license": "mit",
+  "main": "index.js"
+}
